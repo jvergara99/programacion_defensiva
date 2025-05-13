@@ -1,4 +1,4 @@
-package barricada;
+package barricada_ejemplo;
 
 // Clase que actúa como barricada: valida y limpia los datos
 public class ValidadorEntrada {

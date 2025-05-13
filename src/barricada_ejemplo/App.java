@@ -1,4 +1,4 @@
-package barricada;
+package barricada_ejemplo;
 
 // Clase principal que simula la entrada insegura (fuera de la barricada)
 import java.util.Scanner;

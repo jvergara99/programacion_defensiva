@@ -1,4 +1,4 @@
-package barricada;
+package barricada_ejemplo;
 
 // Clase que representa datos ya validados (zona segura)
 public class Persona {
