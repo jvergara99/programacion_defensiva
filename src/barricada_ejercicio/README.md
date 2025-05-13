@@ -23,11 +23,11 @@ Aplicar el concepto de **barricada en programación defensiva** para validar ent
      - Devuelve `null` si el correo es inválido.
 
    - `String validarContrasena(String contrasena)`  
-     - Acepta contraseñas de **al menos 8 caracteres**
+     - Acepta contraseñas de **al menos 9 caracteres**
      - Devuelve `null` si no cumple la condición.
 
    - `Integer validarEdad(String edadTexto)`  
-     - Acepta edades entre **13 y 100 años**
+     - Acepta edades entre **15 y 50 años**
      - Devuelve `null` si no es un número válido o está fuera de rango.
 
 3. **Crear una clase principal `AppRegistro`** que:
